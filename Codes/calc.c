@@ -7,7 +7,7 @@ int main() {
     
     do {
         // Display the menu
-        printf("Menu:\n");
+        printf("Select a Task Number to Perform:\n");
         printf("1. Add\n");
         printf("2. Subtract\n");
         printf("3. Multiply\n");
